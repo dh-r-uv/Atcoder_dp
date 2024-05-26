@@ -1,3 +1,8 @@
+ /*
+ https://atcoder.jp/contests/dp/tasks/dp_k
+ problem K Stones
+ author: Dhruv
+ */
 
  #include<bits/stdc++.h>
 
